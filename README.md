@@ -10,7 +10,7 @@ Asynchronous programming allows JavaScript to execute tasks concurrently, preven
 
 ## Getting Started
 
-To get started with the examples and exercises, clone this repository to your local machine:
+To get started with the examples and exercises, clone this repository to yours local machine:
 
 ```bash
 git clone https://github.com/Jr-Einstein/Week-1-Intro-to-Async-JS.git
