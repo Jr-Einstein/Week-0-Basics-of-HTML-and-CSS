@@ -1,6 +1,6 @@
 # Week 1: Introduction to Async JavaScript
 
-## Overview
+## Overview of the repo
 
 This repository covers the basics of asynchronous programming in JavaScript. Understanding asynchronous operations is crucial for building responsive and efficient web applications.
 
