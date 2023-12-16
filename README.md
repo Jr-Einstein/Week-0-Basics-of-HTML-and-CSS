@@ -1,17 +1,26 @@
-# Week 0: Setting up , HTML and CSS basics
+Week 0: Setting Up, HTML and CSS Basics
+Welcome to Web Dev!
+Get ready to launch your coding journey with Week 0! We'll equip you with the essentials: a development environment, HTML and CSS superpowers, and even build a landing page for Zerodha .
 
-## Overview of the repo
+What You'll Learn:
+Setting Up:
 
-This repository covers the basics of asynchronous programming in JavaScript. Understanding asynchronous operations is crucial for building responsive and efficient web applications.
+Install essential tools like text editors and browsers.
+Configure your local development environment (optional).
+Get comfortable with version control (git) basics.
+HTML Basics:
 
-## Introduction
+️ Understand the structure of an HTML document.
+Learn about common HTML elements and tags.
+✍️ Practice writing valid and semantic HTML code.
+CSS Basics:
 
-Asynchronous programming allows JavaScript to execute tasks concurrently, preventing the blocking of the main thread and improving performance. This repository aims to provide a comprehensive introduction to asynchronous JavaScript.
+✨ Discover the power of styling with CSS.
+Master selectors and properties.
+Style basic elements like text, images, and buttons.
+️ Project: Zerodha Landing Page
+Let's put theory into practice! We'll build a simple landing page for Zerodha, applying your HTML and CSS skills to:
 
-## Getting Started
-
-To get started with the examples and exercises, clone this repository to yours local machine:
-
-```bash
-git clone https://github.com/Jr-Einstein/Week-1-Intro-to-Async-JS.git
-cd Week-1-Intro-to-Async-JS
+Design and layout a real-world web page.
+Experiment with design concepts.
+Get comfortable with the web development workflow.
