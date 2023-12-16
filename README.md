@@ -1,4 +1,4 @@
-# Week 1: Introduction to Async JavaScript
+# Week 0: Setting up , HTML and CSS basics
 
 ## Overview of the repo
 
